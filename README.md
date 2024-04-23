@@ -1,2 +1,2 @@
 # HarryGPT
-learn GPT from Andrej Karpathy
+learn GPT from scratch 
